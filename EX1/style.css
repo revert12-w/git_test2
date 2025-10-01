@@ -1,0 +1,21 @@
+.paragraph {
+  /* rgb example: */
+  color: rgba(100, 0, 127,80%);
+  background-color:rgba(255,0,0,0.3);
+}
+
+.divis{
+    background-color:#00ff0033;
+}
+
+.fonting{
+    font-family: 'Times New Roman', serif;
+    font-size:20px;
+    font-weight: bold;
+    text-align: center; 
+}
+
+.Imaging{
+    height:auto;
+    width: 300px;
+}
