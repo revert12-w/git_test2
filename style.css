@@ -1,12 +1,8 @@
-/* rule 1 */
-
-
-/* rule 2 */
-.list{
-    color:red;
+* {
+  box-sizing: border-box; /* makes width include padding + border */
 }
-
-.subsection {
-background-color: aqua;
-  color: blue;
+.container {
+  width: 980px;
+  margin: 0 auto;
+  text-align: center;
 }
